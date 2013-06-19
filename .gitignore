@@ -13,3 +13,6 @@
 *.a
 
 build/*
+
+# Dont add activeworlds files to git
+lib/libaw_sdk.*
